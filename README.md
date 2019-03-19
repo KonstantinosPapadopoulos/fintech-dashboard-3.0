@@ -13,5 +13,5 @@ In order to start Jarvis just clone the repository:
 3. visit localhost (usually port 8000)
 
 ## Contributing 
-The project is at its very early stage
+The project is at its very early stage.
 Everyone is welcome to contribute either by pull requests or sending new ideas :)
