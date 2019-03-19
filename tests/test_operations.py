@@ -14,5 +14,6 @@ def test_subtract(op):
 def test_increment(op):
     assert op.increment(1) == 2
 
+
 def test_decrement(op):
     assert op.decrement(2) == 1
