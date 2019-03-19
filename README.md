@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/KonstantinosTsivis/FinTech-3.0.svg?branch=master)](https://travis-ci.org/KonstantinosTsivis/FinTech-3.0)
 
-![Imgur Image](https://imgur.com/axAriMQ)
+![FinTech 3.0](https://i.imgur.com/axAriMQ)
 
 Financial Dashboard that provides charts and graphs related to financial instruments, like equities, currencies, commodities, as well as financial and political news. 
 
