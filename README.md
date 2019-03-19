@@ -8,7 +8,7 @@ Financial Dashboard that provides charts and graphs related to financial instrum
 
 ## Get started
 In order to start Jarvis just clone the repository:
-1. go to the dashboard directory `cd dashboard/'
+1. go to the dashboard directory `cd dashboard/`
 2. run `python3 manage.py runserver`
 3. visit localhost (usually port 8000)
 
